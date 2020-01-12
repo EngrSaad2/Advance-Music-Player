@@ -1,5 +1,12 @@
 # Advance-Music-Player
 
+Developer: <b>SAAD</b> <br>
+Email: saad@triangeltech.com<br>
+LinkedIn: https://www.linkedin.com/in/raselhasandurjoy<br>
+Facebook: https://www.facebook.com/raselhasandurjoy<br>
+Company WEB: https://triangeltech.com/ <br>
+Phone: +8801904654712<br>
+
 AMP (SAAD) is a free, powerful and elegant music player for Android. AMP (SAAD) used to be a trial/paid app on the Play Store. Due to my lack of adequate free time and Google's new requirement for paid developers to publicly display their home address, I've decided that I can no longer provide the level of support and regular updates that paid users expect from a developer.
 
 Rather than letting Music completely die off, I've open sourced the app and hosted it here to encourage other developers to potentially improve it, use it in their own personal projects, and re-release it to users. I will still occasionally update this app based on my free time, but it will probably be beta quality code.
@@ -40,7 +47,7 @@ Legacy Changelogs (until 2/24/2020)
 Check out the CHANGELOGS file.
 
 
-### Note: Changelogs will no longer be updated in the CHANGELOGS file. Check the individual commit comments for all further update descriptions.
+#### Note: Changelogs will no longer be updated in the CHANGELOGS file. Check the individual commit comments for all further update descriptions.
 
 
 ## Libraries Used
