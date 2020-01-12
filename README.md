@@ -33,7 +33,7 @@ Auto-download album art from the internet.
 
 ## Forked Projects
 SAAD Music Player (Beta)
-If you're using AMP (Advance Music Player) codebase in your current project/app and would like to have it featured here, email me at saravan.pantham@gmail.com.
+If you're using AMP (Advance Music Player) codebase in your current project/app and would like to have it featured here, email me at saad@triangeltech.com.
 
 Legacy Changelogs (until 2/24/2020)
 
