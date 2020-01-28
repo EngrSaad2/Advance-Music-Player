@@ -34,7 +34,7 @@ Individual EQ settings for each artist, album artist, album, song, genre, or pla
 
 File/folder browsing.
 
-Scrobbling.
+Scrobbling
 
 Crossfade with customizable duration.
 
