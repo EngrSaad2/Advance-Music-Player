@@ -28,7 +28,7 @@ Album artist sorting/tag support
 
 Blacklist ability for artists, album artists, albums, songs, genres and playlists.
 
-9 band equalizer with bass boost, virtualizer, and reverb.
+9 band equalizer with bass boost, virtualizer, and reverb
 
 Individual EQ settings for each artist, album artist, album, song, genre, or playlist.
 
