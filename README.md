@@ -30,7 +30,7 @@ Blacklist ability for artists, album artists, albums, songs, genres and playlist
 
 9 band equalizer with bass boost, virtualizer, and reverb
 
-Individual EQ settings for each artist, album artist, album, song, genre, or playlist.
+Individual EQ settings for each artist, album artist, album, song, genre, or playlist
 
 File/folder browsing.
 
