@@ -38,7 +38,7 @@ Scrobbling.
 
 Crossfade with customizable duration..
 
-Auto-download album art from the internet.
+Auto-download album art from the internet..
 
 2 different base themes and 9 different color schemes..
 
