@@ -99,7 +99,7 @@ All source code is licensed under Apache License 2.0. If you create your own app
 Copyright 2020 - <b>SAAD</b>
 
 Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
+you may not use this file except in compliance with the License
 You may obtain a copy of the License at
 
    http://www.apache.org/licenses/LICENSE-2.0
