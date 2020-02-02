@@ -36,7 +36,7 @@ File/folder browsing.
 
 Scrobbling.
 
-Crossfade with customizable duration.
+Crossfade with customizable duration..
 
 Auto-download album art from the internet.
 
