@@ -18,7 +18,7 @@ Rather than letting Music completely die off, I've open sourced the app and host
 If you are a developer who's interested in using my current codebase, I encourage you to fork this repository and/or directly contribute to it. If you decide to launch your own fork of this app on the Play Store, feel free to drop me a line so I can feature it on this GitHub page.
 
 ## Features
-Unofficial Google Play Music support.........
+Unofficial Google Play Music support........
 ID3v3 tag editing.
 
 Custom libraries support.
