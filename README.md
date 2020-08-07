@@ -9,7 +9,7 @@ Phone: +8801904654712<br>
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/raselhasandurjoy/Advance-Music-Player)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)...
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)..
 
 AMP (SAAD) is a free, powerful and elegant music player for Android. AMP (SAAD) used to be a trial/paid app on the Play Store. Due to my lack of adequate free time and Google's new requirement for paid developers to publicly display their home address, I've decided that I can no longer provide the level of support and regular updates that paid users expect from a developer.
 
