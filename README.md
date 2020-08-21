@@ -5,7 +5,7 @@ Email: saad@triangeltech.com<br>
 LinkedIn: https://www.linkedin.com/in/raselhasandurjoy<br>
 Facebook: https://www.facebook.com/developer.saad<br>
 Company WEB: https://triangeltech.com/ <br>
-Phone: +8801904654712<br>
+Phone: +8801904654712<br>...
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/raselhasandurjoy/Advance-Music-Player)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -21,7 +21,7 @@ If you are a developer who's interested in using my current codebase, I encourag
 Unofficial Google Play Music support
 ID3v3 tag editing.
 
-Custom libraries support.
+Custom libraries support...
 
 Album artist sorting/tag support
 
