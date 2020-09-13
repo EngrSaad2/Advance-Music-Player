@@ -5,7 +5,7 @@ Email: saad@triangeltech.com<br>
 LinkedIn: https://www.linkedin.com/in/raselhasandurjoy<br>
 Facebook: https://www.facebook.com/developer.saad<br>
 Company WEB: https://triangeltech.com/ <br>
-Phone: +8801904654712<br>
+Phone: +8801904654712<br>...
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/raselhasandurjoy/Advance-Music-Player)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -72,38 +72,4 @@ Android Asynchronous HTTP Client - http://loopj.com/android-async-http/
 
 Android BitmapCache - https://github.com/chrisbanes/Android-BitmapCache
 
-ListViewAnimations - https://github.com/nhaarman/ListViewAnimations
-
-Apache Commons IO - http://commons.apache.org/proper/commons-io/
-
-Apache Commons Lang - http://commons.apache.org/proper/commons-lang/
-
-DashClock API - https://code.google.com/p/dashclock/
-
-Google HTTP Client - https://code.google.com/p/google-http-java-client/
-
-Google HTTP Client (Android) - https://code.google.com/p/google-http-java-client/wiki/Android
-
-JAudioTagger - http://www.jthink.net/jaudiotagger/
-
-Google Analytics - https://developers.google.com/analytics/devguides/collection/android/resources
-
-NineOldAndroids - https://github.com/JakeWharton/NineOldAndroids/
-
-Android Support Library - http://developer.android.com/tools/support-library/index.html
-
-## License
-All source code is licensed under Apache License 2.0. If you create your own app (free or commercial) that uses some or all of the code from this codebase, you MUST attribute it to the original author, no exceptions. You can do so by displaying an "About" or "Licenses" screen in your app that links back to this GitHub page AND includes the following notice:
-
-Copyright 2020 - <b>SAAD</b>
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License
-You may obtain a copy of the License at
-
-   http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and limitations under the License.
+ListView
