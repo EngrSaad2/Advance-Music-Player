@@ -21,7 +21,7 @@ If you are a developer who's interested in using my current codebase, I encourag
 Unofficial Google Play Music support
 ID3v3 tag editing.
 
-Custom libraries support.
+Custom libraries support....
 
 Album artist sorting/tag support
 
