@@ -39,7 +39,7 @@ Crossfade with customizable duration..
 
 Auto-download album art from the internet..
 
-2 different base themes and 9 different color schemes..
+2 different base themes and 9 different color schemes.
 
 ## Forked Projects
 SAAD Music Player (Beta)
