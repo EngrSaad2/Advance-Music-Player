@@ -1,9 +1,5 @@
 package com.mtechviral.musicplayer;
 
-/**
- * Created by pawankumar on 30/05/17.
- */
-
 public class SongInfo {
     private String Songname;
     private String Artistname;
