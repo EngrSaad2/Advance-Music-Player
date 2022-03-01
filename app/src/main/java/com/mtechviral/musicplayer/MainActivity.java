@@ -1,5 +1,5 @@
 package com.mtechviral.musicplayer;
-....
+...
 import android.Manifest;
 import android.content.pm.PackageManager;
 import android.database.Cursor;
